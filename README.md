@@ -12,7 +12,7 @@
 - 🎓 B.Tech in Artificial Intelligence and Data Science  
 - 💡 Passionate about:  
   - AI, Machine Learning, NLP, OCR  
-  - Blockchain: KYC Systems, Smart Contracts, IPFS  
+  - Blockchain, IPFS  
   - Java Development (Android Apps, Backend Systems)  
 - 🧠 Loves building scalable, secure, offline-first apps  
 - 📚 Believes in **learning by building**
