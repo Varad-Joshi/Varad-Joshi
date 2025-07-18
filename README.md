@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm Varad Sandeep Joshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+NLP+%7C+Blockchain+Developer;Building+Real-World+AI+and+Security+Solutions;Java+Developer+%7C+Offline-First+Tech+Enthusiast;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+NLP+%7C+Blockchain+Developer;Building+Real-World+AI+and+Security+Solutions;Java+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
 </p>
 
 ---
