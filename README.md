@@ -14,7 +14,7 @@
   - AI, Machine Learning, NLP, OCR  
   - Blockchain, IPFS  
   - Java Development (Android Apps, Backend Systems)  
-- 🧠 Loves building scalable, secure, offline-first apps  
+- 🧠 Loves building scalable, secure, Innovative apps  
 - 📚 Believes in **learning by building**
 
 ---
@@ -27,7 +27,7 @@
 - 🎓 **2023:** Began B.Tech in Artificial Intelligence & Data Science  
 - 🧱 **2024:** Built RE-DACT – A Secure Redaction, Masking & Anonymization Tool  
 - 🖱️ **2025:** Created Virtual Mouse & IntelliQueue Smart Queue App  
-- 🎯 **2025 (Now):** Sharpening Java & Blockchain skills for professional roles
+- 🎯 **2025 (Now):** Sharpening skills for professional roles
 
 ---
 
@@ -46,11 +46,11 @@
 
 <table>
 <tr>
-<td align="center">
+<!-- <td align="center">
   <img src="https://img.icons8.com/color/100/folder-invoices.png" width="120" alt="ArchieveMind" />
   <br><b>ArchieveMind</b><br>
   AI-powered Legacy Data Extraction & Processing Tool
-</td>
+</td> -->
 <td align="center">
   <img src="https://img.icons8.com/color/100/privacy-policy.png" width="120" alt="RE-DACT" />
   <br><b>RE-DACT</b><br>
